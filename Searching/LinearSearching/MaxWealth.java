@@ -15,6 +15,6 @@ sum+=accounts[person][account];
         }}
 
         return ans;
-    }
+    }}
 
     
