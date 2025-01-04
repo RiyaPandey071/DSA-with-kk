@@ -1,4 +1,3 @@
-package QUES;
 public class FloorOfNumber {
     static int Floor(int [] arr,int target){
 

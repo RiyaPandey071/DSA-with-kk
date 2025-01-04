@@ -2,7 +2,9 @@
 
 public class SplitArray {
     public static void main(String[] args) {
-        
+       int[] nums={1,2,3,4,7,1,0};
+       int k=2;
+System.out.println(splitArray(nums,k));
     }
 
     static int splitArray(int[] nums, int k) {
