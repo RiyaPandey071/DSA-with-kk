@@ -5,7 +5,7 @@ public class BubbleSorting {
     bubble(arr);
     System.out.println(Arrays.toString(arr));
     
-   }
+   } 
    static void bubble(int[] arr){
     boolean swapped;
     for(int i=0;i<arr.length;i++){
