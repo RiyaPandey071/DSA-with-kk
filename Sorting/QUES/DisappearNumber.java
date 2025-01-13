@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class DisappearNumber {
 
     public static void main(String[] args) {
-       int [] arr={3,1,4};
+       int [] arr={4,3,2,7,8,2,3,1};
        System.out.println(findDisappearedNumbers(arr));
        //System.out.println(Arrays.toString(arr));  
     }
@@ -32,6 +32,6 @@ public class DisappearNumber {
     static void swap(int[] arr,int first,int second){
        int temp=arr[first];
         arr[first]=arr[second];
-        arr[second]=temp;
+        arr[second]=temp; 
      }
 }
