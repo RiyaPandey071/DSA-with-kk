@@ -29,7 +29,7 @@ class SortedMatrix {
         }
         int rStart=0;
         int rEnd=row-1;
-        int cMid=col/1;
+        int cMid=col/2;
         while(rStart<(rEnd-1)){
        int mid=rStart+(rEnd-rStart)/2;
          

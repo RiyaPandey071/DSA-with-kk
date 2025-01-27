@@ -11,7 +11,7 @@ public class SelectionSorting {
     }
 
     static void Selection(int[] arr){
-      //find  the max item in the remaining array and swap with correcg index
+      //find  the max item in the remaining array and swap with correct index
       for(int i=0;i<arr.length;i++){
       int last= arr.length-i-1;
       int maxIndex=getMaxIndex(arr,0,last); 
