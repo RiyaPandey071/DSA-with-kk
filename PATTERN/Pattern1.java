@@ -5,12 +5,16 @@ public class Pattern1 {
        int n=in.nextInt();
        pattern(n);
     }
-       static void pattern(int n){
+    
+    static void pattern(int n){
         for(int row=1;row<=n;row++){
             for(int col=1;col<=row;col++){
-                System.out.print("* ");
+                System.out.print("+ ");
             }
             System.out.println();
-        }}
+        }
+     }   
+
+
     }
 
