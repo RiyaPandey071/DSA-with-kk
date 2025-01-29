@@ -5,11 +5,13 @@ public class Pattern5 {
     pattern(9);
   }  
   static void pattern(int n){
-    for(int row=1;row<=2n-1;row++){
-        for(int col=1;col<=row;col++){
+    for(int row=1;row<=2*n;row++){
+      int totalcolsInrow=row>n? 2*n-row-1:row;
+        for(int col=1;col<totalcolsInrow;col++){
             System.out.print("+ ");
         }
         System.out.println();
     }
  }   
 }
+ 

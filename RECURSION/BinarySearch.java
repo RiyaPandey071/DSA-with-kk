@@ -9,7 +9,7 @@ public class BinarySearch {
             return -1;
 
         }
-        int m=s+(s+e)/2;
+        int m=s+(e-s)/2;
         if(arr[m]==target){
             return m;
         }
