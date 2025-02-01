@@ -3,6 +3,11 @@ public class NoOfDigit {
         int n=1024;
         int base=2;
         int ans=(int)(Math.log(n)/Math.log(base))+1;
-        System.out.println(ans);
+     // {int count =0;
+     // while(n>0){
+     //   n=n>>1;
+//count ++;
+     //  } 
+      // System.out.println(count);}
     }
 }
