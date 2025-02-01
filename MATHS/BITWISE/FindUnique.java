@@ -1,6 +1,6 @@
-public class Count {
+public class FindUnique {
     public static void main(String[] args) {
-      int[] arr={1,2,3,6,2,1,6,8,3};
+      int[] arr={1,2,3,2,1};
       System.out.println(count(arr));  
     }
     static int count(int[] arr){
@@ -12,3 +12,4 @@ public class Count {
     }
     
 }
+//After completing all iterations, the value of count is 3, which is the unique number in the array.
