@@ -1,6 +1,7 @@
 public class FindUnique {
     public static void main(String[] args) {
-      int[] arr={1,2,3,2,1};
+      //every no appear twice find the unique no
+      int[] arr={1,2,3,3,1};
       System.out.println(count(arr));  
     }
     static int count(int[] arr){

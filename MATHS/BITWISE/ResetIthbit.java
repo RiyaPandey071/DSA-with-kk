@@ -10,7 +10,7 @@ public class ResetIthbit {public static void main(String[] args) {
   
     int mask=~(1<<(bitPosition - 1));
     int n=num&mask;
-     return n>0?1:0;
+     return n>0?1:0; 
   
   }
 }

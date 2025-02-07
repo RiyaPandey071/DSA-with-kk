@@ -1,0 +1,199 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "CountSetBit",
+            "request": "launch",
+            "mainClass": "CountSetBit",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "Fcators",
+            "request": "launch",
+            "mainClass": "Fcators",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "Fibbonacci",
+            "request": "launch",
+            "mainClass": "Fibbonacci",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "FindUnique",
+            "request": "launch",
+            "mainClass": "FindUnique",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "FlipImage",
+            "request": "launch",
+            "mainClass": "FlipImage",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "GCD_HCF",
+            "request": "launch",
+            "mainClass": "GCD_HCF",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "IthBit",
+            "request": "launch",
+            "mainClass": "IthBit",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "MAgicNo",
+            "request": "launch",
+            "mainClass": "MAgicNo",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "NewtonRapsonSqrt",
+            "request": "launch",
+            "mainClass": "NewtonRapsonSqrt",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "NoOfDigit",
+            "request": "launch",
+            "mainClass": "NoOfDigit",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "PowOfTwo",
+            "request": "launch",
+            "mainClass": "PowOfTwo",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "Nto1",
+            "request": "launch",
+            "mainClass": "QUES.Nto1",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "ResetIthbit",
+            "request": "launch",
+            "mainClass": "ResetIthbit",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "SQRT",
+            "request": "launch",
+            "mainClass": "SQRT",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "Seive",
+            "request": "launch",
+            "mainClass": "Seive",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "SetIthBit",
+            "request": "launch",
+            "mainClass": "SetIthBit",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "Syntax",
+            "request": "launch",
+            "mainClass": "Syntax.Syntax",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "TriangleSum",
+            "request": "launch",
+            "mainClass": "TriangleSum",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "UniquesNo",
+            "request": "launch",
+            "mainClass": "UniquesNo",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        },
+        {
+            "type": "java",
+            "name": "XOR",
+            "request": "launch",
+            "mainClass": "XOR",
+            "projectName": "DSA SERIES WITH KK_f35b2dbc"
+        }
+    ]
+}
