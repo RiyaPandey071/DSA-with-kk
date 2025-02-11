@@ -11,7 +11,7 @@ public class StepReduce {
    }
     static int helper(int num,int steps){
         if(num==0){
-            return steps;
+             return steps;
         }
     
         if(num%2==0){
