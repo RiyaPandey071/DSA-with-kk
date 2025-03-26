@@ -1,14 +1,19 @@
 
 public class Nto1 {
     public static void main(String[] args) {
-     funboth(5);   
+    // fun(5);
+     //System.out.println();
+    // funrev(5);
+    // System.out.println();
+        //funboth(5);
+        concept(5);   
     }
     //concept
     static void concept(int n){
         if(n==0){
             return;
         }
-        System.out.println(n);
+        System.out.print(n+" ");
         //fun(n--); xxx
         fun(--n);
         //n-- vs --n 

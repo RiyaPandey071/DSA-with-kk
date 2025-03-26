@@ -1,7 +1,7 @@
 public class Factorial {
     public static void main(String[] args) {
    
-       int ans=fact(0);
+       int ans=fact(5 );
        System.out.println(ans);
     int ans2=sum(5);
     System.out.println(ans2);
@@ -11,7 +11,7 @@ public class Factorial {
 
     static int fact(int n){
 if(n<=1){
-    return n;
+    return 1;
 }
 return n*fact(n-1);
 
