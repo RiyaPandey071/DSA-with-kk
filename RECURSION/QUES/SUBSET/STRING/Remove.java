@@ -1,11 +1,12 @@
-package SUBSET.STRING;
+//package SUBSET.STRING;
 public class Remove {
   public static void main(String[] args) {
     String x="acdfhvhgjcad";
     System.out.println(Word(x));
     //skip("","baccdah");  
     System.out.println(skip("baccdah"));
-    System.out.println(skipApple("   bacapplecdah"));  
+    System.out.println(skipApple("   bacapplecdah")); 
+    System.out.println(skipak("akasriya")); 
   }  
 
 
@@ -19,7 +20,7 @@ static void Wordd(String name){
     
 }
 static String Word(String name){
-    StringBuilder ans=new StringBuilder();
+    StringBuilder ans=new StringBuilder();  
     for(int i=0;i<name.length();i++){
     if(name.charAt(i)!='a'){
         ans.append(name.charAt(i));
@@ -72,6 +73,21 @@ static String skipApple(String up){
     return up.charAt(0)+skipApple(up.substring(1));
   }
   
+}
+
+
+static String skipak(String up){
+  if(up.isEmpty()){
+    return "";
+  }
+ 
+
+  if(up.startsWith("ak")){
+    return skipak(up.substring(2));
+  }
+  else{
+    return up.charAt(0)+skipak(up.substring(1));
+  }
 }
 
 
