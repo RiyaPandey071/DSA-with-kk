@@ -26,4 +26,4 @@ System.out.println(search(arr,8,0,arr.length-1));
        return search(arr,target,s,m-1) ;
     }
    } 
-}
+} 

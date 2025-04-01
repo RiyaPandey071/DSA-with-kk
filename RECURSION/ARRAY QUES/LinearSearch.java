@@ -87,7 +87,7 @@ static ArrayList searchList(int[] arr,int target,int index){
      }
       ArrayList<Integer> ansFromBelowCalls=searchList(arr,target,index+1);
       list.addAll(ansFromBelowCalls);
-return list;
+return list;  
 
 }
 
