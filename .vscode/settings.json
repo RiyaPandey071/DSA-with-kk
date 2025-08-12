@@ -1,12 +1,12 @@
 {
     "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable",
     "java.project.sourcePaths": [
-        "MATHS\\Ques",
+        "RECURSION/Without Recursion",
+        "RECURSION/Syntax",
+        "RECURSION/QUES",
         "PATTERN",
-        "RECURSION\\QUES",
-        "RECURSION\\Syntax",
-        "RECURSION\\Without Recursion",
-        "STRING\\Question"
+        "MATHS/Ques",
+        "linkedlist/doublylist"
     ],
     "java.project.referencedLibraries": []
 }
